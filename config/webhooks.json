@@ -3,5 +3,10 @@
 		"id" : "webhook_roundstart",
 		"url" : "https://discordapp.com/api/webhooks/692877772900532266/k38D91ubpwNcP0MjgzZ1MwjiQ5kRIQg2NcMSFD1B4cL1RklMoDCppZuBjXEJqv4wLffQ",
 		"mentions" : []
+	},
+	{
+		"id" : "webhook_roundend",
+		"url" : "https://discordapp.com/api/webhooks/692877772900532266/k38D91ubpwNcP0MjgzZ1MwjiQ5kRIQg2NcMSFD1B4cL1RklMoDCppZuBjXEJqv4wLffQ"
+		"mentions" : []
 	}
 ]
