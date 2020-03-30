@@ -1,0 +1,5 @@
+<h1>Welcome to Oversight</h1>
+
+-<i>This server is running the <a href="https://ss13polaris.com/">Polaris</a> modification of the <a href="https://baystation12.net/">Baystation12</a> SS13 code.</i>
+<br><br>
+<strong>This server is WIP, glitches shall be expected.</strong> <a href="https://discord.gg/sUPbmtt">Discord</a>
